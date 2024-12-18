@@ -9,7 +9,6 @@ use Exception;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 use PHPUnit\Framework\Attributes\Test;
 use Tests\TestCase;
-use Illuminate\Support\Facades\Config;
 
 class ProductTest extends TestCase
 {
