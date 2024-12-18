@@ -1,6 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://career.mytheresa.com/wp-content/uploads/2022/05/90837a8b-a569-47d9-ae2d-f.webp" width="400" alt="Laravel Logo"></a></p>
-
-# Backend Restful API Assessments
+# Mytheresa Backend Restful API Assessments
 We want you to implement a REST API endpoint that given a list of products, applies some discounts to them and can be filtered.
 You are free to choose whatever language and tools you are most comfortable with. Please add instructions on how to run it and publish it in Github.
 
