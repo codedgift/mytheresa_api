@@ -140,6 +140,16 @@ cd mytheresa_api
 chmod +x setup.sh && ./setup.sh
 ```
 
+- Connect to MYSQL Database using the credentials below
+
+![alt text](image.png)
+
+
+- Run seeder to have some data in the products table using this command below
+```baah
+./vendor/bin/sail php artisan db:seed --filter=ProductSeeder
+```
+
 ## Run Tests
 To run the application test, run the command below
 ```sh
